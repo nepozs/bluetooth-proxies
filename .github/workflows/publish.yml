@@ -24,7 +24,7 @@ jobs:
       name: ESP32 Generic
       manifest_filename: esp32-generic-manifest.json
       clean: false
-      esphome_version: dev
+      esphome_version: latest
 
 #   publish-olimex-esp32-poe-iso:
 #     name: Publish Olimex PoE ISO
