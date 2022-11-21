@@ -32,7 +32,7 @@ logger:
 ota:
 
 dashboard_import:
-  package_import_url: github://blakadder/bluetooth-proxies/gl-s10.yaml@main
+  package_import_url: github://nepozs/bluetooth-proxies/gl-s10.yaml@main
 
 esp32_ble_tracker:
   scan_parameters:
